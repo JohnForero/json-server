@@ -1,0 +1,1 @@
+para instalar use nmp i
