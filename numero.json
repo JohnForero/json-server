@@ -1,0 +1,29 @@
+{
+    "motos": [
+        {
+            "color": "rojo",
+            "marca": "bmw",
+            "año": 2024,
+            "modelo": "s1000rr",
+            "kilometraje": 12000,
+            "document": {
+                "soat": true,
+                "tecno": false
+            }
+        },
+        {
+            "color": "rojo",
+            "marca": "bmw",
+            "año": 2024,
+            "modelo": "s1000rr",
+            "kilometraje": 12000,
+            "document": {
+                "soat": true,
+                "tecno": false
+            }
+        }
+    ],
+    "carros": [
+       
+    ]
+}
