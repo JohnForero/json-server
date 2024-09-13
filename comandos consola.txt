@@ -1,0 +1,4 @@
+- entrar a una carpeta: cd (nombre del archivo) tecla tab para autocompletar
+- devolverme a la carpeta anterior: cd ..
+- ver archivos de la carpeta: ls
+- borrar consola: clear

@@ -1,0 +1,7 @@
+- git init: iniciar git en esa carpeta
+- git status: ayuda a ver que archivos se modificaron
+- git add (nombre del archivo): agregar archivo al stage
+- git add .: agregar todos los archivos al stage
+- git commit -m "descripcion": hacer un commit
+- git log: ver el historial de commits
+- git push: subir cambios al repocitorio
